@@ -1,5 +1,11 @@
 # Assignment_10-HeartDiseaseDeployment-render-deployed-
 
+
+## 🚀 Live Demo
+
+The machine learning application is deployed and live on Render! You can access it here:
+👉 **[Heart Disease Prediction App](https://assignment-10-heartdiseasedeployment-4yzm.onrender.com/)**
+
 ## Project Overview
 This repository contains the end-to-end deployment of a machine learning model designed to predict whether a patient is at risk of heart disease based on clinical parameters[cite: 1]. The project encompasses data preprocessing, model development, REST API creation using Flask, and live cloud deployment via Render[cite: 1].
 
